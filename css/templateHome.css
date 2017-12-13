@@ -1,0 +1,113 @@
+
+
+.headerAbout{
+  height: 600px !important;
+}
+
+.headerContact{
+  height: 300px !important;
+}
+
+.clsHeader2{
+  margin-top: 70px;
+  margin-bottom: 70px;
+  font-family: "FuturaCondensed";
+  font-size: 50px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.clsDivHeader2
+{
+  height: 200px !important;
+}
+
+.clsFooter, .clsFooterContact, .clsFooterContactMobile
+{
+  margin-top: 0px !important;
+}
+
+.clsFooter
+{
+  padding-top: 150px;
+}
+
+.clsFooterContact
+{
+  padding-top: 300px;
+}
+
+.clsFooterContactMobile
+{
+  padding-top: 100px !important;
+}
+
+.conteudo
+{
+  width: 100% !important;
+  text-align: start;
+  padding-left: 5% !important;
+  padding-right: 5% !important;
+  position: relative;
+  top: 130px !important;
+}
+
+.mainAbout
+{
+
+}
+
+.conteudoMobile
+{
+
+}
+
+.containerTextMobile, .container, .containerContact
+{
+  width: 100% !important;
+}
+
+.containerContactMobile, .mainContactMobile
+{
+  height: 805px  !important;
+  padding-bottom: 300px !important;
+}
+
+.containerTextMobileAbout, .mainAboutMobile
+{
+  height: 1135px !important;
+  padding-bottom: 300px !important;
+}
+.container
+{
+  height: 750px !important;
+
+}
+
+.containerContact
+{
+    height: 540px !important;
+    padding-bottom: 300px !important;
+}
+
+.mainContactMobile
+{
+  height: 805px !important;
+  padding-bottom: 300px !important;
+
+}
+
+.pTexto, .pTextoCEO
+{
+  margin-bottom: 10px !important;
+}
+
+.pTexto
+{
+    margin-top: 10px !important;
+}
+
+.pTextoCEO
+{
+    margin-top: 25px !important;
+}

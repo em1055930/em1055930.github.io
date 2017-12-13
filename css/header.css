@@ -1,0 +1,65 @@
+header.cssheader .navbar-toggle{
+	border:none;
+	margin-right:0 !important;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
+	background:none;
+}
+header .navbar-default .navbar-toggle .icon-bar{
+	background-color:#fff;
+}
+header .navbar-collapse{
+	background:rgba(0,0,0,0.5);
+}
+header .navbar-collapse .active a{
+	background:none !important;
+}
+header .navbar-collapse a{
+	color:#fff !important;
+}
+header .navbar-toggle {
+	border: none;
+	margin-right: 0 !important;
+	cursor: pointer;
+}
+.navbar-logo {
+	height: 45px;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+	background: none;
+}
+
+header .navbar-default .navbar-toggle .icon-bar {
+	background-color: #fff;
+}
+
+header .navbar-collapse {
+	background: rgba(0, 0, 0, 0.5);
+}
+
+header .navbar-collapse .active a {
+	background: none !important;
+}
+
+header .navbar-collapse a {
+	color: #fff !important;
+}
+
+.home-header{
+	background:url(../images/header.jpg) repeat-y center center;
+	background-size:100% auto;
+	position:relative;
+	height:100%;
+}
+.navbar-outer {
+	width: 500px;
+}
+
+
+.navbar-toggle {
+	display: block;
+	margin-top: 8px;
+	margin-bottom: 4px;
+}
